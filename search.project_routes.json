@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "61c47b9a97367f78836e012c"
+  },
+  "route_name": "/api/record",
+  "method": "POST",
+  "uri": "/api/record/record_id",
+  "role": "Client",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61c47bf997367f78836e012e"
+  },
+  "route_name": "/api/verifyAccount",
+  "method": "POST",
+  "uri": "/api/verifyAccount",
+  "role": "Admin",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61c47c1997367f78836e012f"
+  },
+  "route_name": "/api/uploadClientKYC",
+  "method": "POST",
+  "uri": "/api/uploadClientKYC",
+  "role": "Client",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61c47c4a97367f78836e0130"
+  },
+  "route_name": "/api/getContractList",
+  "method": "POST",
+  "uri": "/api/getContractList",
+  "role": "Client",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61c47c7197367f78836e0131"
+  },
+  "route_name": "/api/getRecordsByClientId",
+  "method": "POST",
+  "uri": "/api/getRecordsByClientId",
+  "role": "Client",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61c47c9297367f78836e0132"
+  },
+  "route_name": "/api/apiEndpoint",
+  "method": "POST",
+  "uri": "/api/apiEndpoint",
+  "role": "Client",
+  "rateLimit": 4,
+  "coolingPeriod": 60
+},
+{
+  "_id": {
+    "$oid": "61c47cd497367f78836e0134"
+  },
+  "route_name": "/api/searchRecordsByClientId",
+  "method": "POST",
+  "uri": "/api/searchRecordsByClientId",
+  "role": "Client",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61cd60cbe546db536caa247b"
+  },
+  "route_name": "/api/search_record",
+  "method": "POST",
+  "uri": "/api/search_record",
+  "role": "Client",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61d6d6601778b4bff2609f39"
+  },
+  "route_name": "/api/clientRecord",
+  "method": "POST",
+  "uri": "/api/clientRecord/record_id",
+  "role": "Client",
+  "rateLimit": 4,
+  "coolingPeriod": 60
+},
+{
+  "_id": {
+    "$oid": "61d7c0d0ba53d78f729a44fe"
+  },
+  "route_name": "/api/verifyOtpFingerprint",
+  "method": "POST",
+  "uri": "/api/verifyOtpFingerprint",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c0f4ba53d78f729a44ff"
+  },
+  "route_name": "/api/verifyOTP",
+  "method": "POST",
+  "uri": "/api/verifyOTP",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c11aba53d78f729a4500"
+  },
+  "route_name": "/api/sendOtpFingerprint",
+  "method": "POST",
+  "uri": "/api/sendOtpFingerprint",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c142ba53d78f729a4501"
+  },
+  "route_name": "/api/sendOTP",
+  "method": "POST",
+  "uri": "/api/sendOTP",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c1b9ba53d78f729a4502"
+  },
+  "route_name": "/api/register",
+  "method": "POST",
+  "uri": "/api/register",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c1deba53d78f729a4503"
+  },
+  "route_name": "/api/login",
+  "method": "POST",
+  "uri": "/api/login",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c20fba53d78f729a4504"
+  },
+  "route_name": "/api/resetToken",
+  "method": "POST",
+  "uri": "/api/resetToken",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c233ba53d78f729a4505"
+  },
+  "route_name": "/api/searchRecordsByClientId",
+  "method": "POST",
+  "uri": "/api/searchRecordsByClientId",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c27bba53d78f729a4507"
+  },
+  "route_name": "/api/checkEmailAndSendOTP",
+  "method": "POST",
+  "uri": "/api/checkEmailAndSendOTP",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c348ba53d78f729a4508"
+  },
+  "route_name": "/api/record",
+  "method": "GET",
+  "uri": "/api/record",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c36aba53d78f729a4509"
+  },
+  "route_name": "/api/record",
+  "method": "GET",
+  "uri": "/api/record/record_id",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c3fdba53d78f729a450a"
+  },
+  "route_name": "/api/clientRecord",
+  "method": "GET",
+  "uri": "/api/clientRecord",
+  "role": "Client",
+  "rateLimit": 4,
+  "coolingPeriod": 60
+},
+{
+  "_id": {
+    "$oid": "61d7c43dba53d78f729a450b"
+  },
+  "route_name": "/api/clientRecord",
+  "method": "GET",
+  "uri": "/api/clientRecord/record_id",
+  "role": "Client",
+  "rateLimit": 4,
+  "coolingPeriod": 60
+},
+{
+  "_id": {
+    "$oid": "61d7c56aba53d78f729a450c"
+  },
+  "route_name": "/api/getClientIdList",
+  "method": "GET",
+  "uri": "/api/getClientIdList",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "61d7c5adba53d78f729a450d"
+  },
+  "route_name": "/api/uploadClientKYC",
+  "method": "POST",
+  "uri": "/api/uploadClientKYC",
+  "role": "Default",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "61fbceeabc265b406e3b08ce"
+  },
+  "route_name": "/api/createRecord",
+  "method": "POST",
+  "uri": "/api/createRecord",
+  "role": "Client",
+  "rateLimit": -1
+},
+{
+  "_id": {
+    "$oid": "6206680d723a2a0690555911"
+  },
+  "route_name": "/api/createClientRecord",
+  "method": "POST",
+  "uri": "/api/createClientRecord",
+  "role": "Client",
+  "rateLimit": 4,
+  "coolingPeriod": 60
+},
+{
+  "_id": {
+    "$oid": "6214cfa3380010ceebe00da8"
+  },
+  "route_name": "/api/clientLogin",
+  "method": "POST",
+  "uri": "/api/clientLogin",
+  "role": "Default",
+  "rateLimit": 10
+},
+{
+  "_id": {
+    "$oid": "6214d022380010ceebe00da9"
+  },
+  "route_name": "/api/setClientTokenExpiry",
+  "method": "POST",
+  "uri": "/api/setClientTokenExpiry",
+  "role": "Client",
+  "rateLimit": 4,
+  "coolingPeriod": 60
+}]

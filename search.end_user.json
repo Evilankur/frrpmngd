@@ -1,0 +1,1989 @@
+[{
+  "_id": {
+    "$oid": "6270ab78383a32b47f2c7516"
+  },
+  "id": 1,
+  "nonce": 5550,
+  "publicAddress": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "username": "SUN",
+  "userId": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "name": "SUN",
+  "address": "SUN",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "isActive": true,
+  "userType": "wallet"
+},
+{
+  "_id": {
+    "$oid": "6270accc6a5b543a0baac154"
+  },
+  "userId": "ackno@dispostable.com",
+  "name": "Acknoledger",
+  "address": "NAGPUR",
+  "password": "$2b$10$BjP5ISOp4Bs..dnOOGbfqu8yckeQKosSgeIGXhwcVYmNKjDi48pVG",
+  "isEmail": "true",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 2,
+  "nonce": "",
+  "publicAddress": "",
+  "username": "acknoledger",
+  "userType": "email"
+},
+{
+  "_id": {
+    "$oid": "6273e06f6a998785c94e6379"
+  },
+  "id": 3,
+  "nonce": 3912,
+  "publicAddress": "0x96e6f97c189e095fbfbea21b85e1983b66ba9d80",
+  "username": "pratikkkk",
+  "userId": "pratik@acknoledger.com",
+  "name": "pratik",
+  "address": "null",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "627427fe264be5888e608024"
+  },
+  "id": 4,
+  "nonce": 9316,
+  "publicAddress": "0xacc4406749f0c0f673cfc3ca0d1ed93af8a5ab5d",
+  "username": "manbeardog",
+  "userId": "toni.jurjevi@gmail.com",
+  "name": "Toni",
+  "address": "0xAcC4406749f0C0f673CFC3cA0d1ed93Af8a5Ab5D",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62961ef8224942259140bd4f"
+  },
+  "id": 5,
+  "nonce": 9834,
+  "publicAddress": "0x613a67c33be7ac9cea3d8385b74160d0c4b313cd",
+  "username": "r0l4nd",
+  "userId": "0x613a67c33be7ac9cea3d8385b74160d0c4b313cd",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "629621336c838b262df9fca4"
+  },
+  "id": 6,
+  "nonce": 4914,
+  "publicAddress": "0xd86b4e627186029d1c96947457e27e8b76cfc9de",
+  "username": "",
+  "userId": "0xd86b4e627186029d1c96947457e27e8b76cfc9de",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "629635ed224942259140bd50"
+  },
+  "id": 7,
+  "nonce": 8856,
+  "publicAddress": "0x28c95505323ad74f6da3ea34bda3a593e34f9d91",
+  "username": "dougbr",
+  "userId": "0x28c95505323ad74f6da3ea34bda3a593e34f9d91",
+  "name": "Jhonatan Barcarolo",
+  "address": "Rua Guilherme 1095 - Brasil - Joinville - SC",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62963a676c838b262df9fca5"
+  },
+  "id": 8,
+  "nonce": 4367,
+  "publicAddress": "0x6455ce58efb402797476a54f5ba6870bff6b9b48",
+  "username": "",
+  "userId": "0x6455ce58efb402797476a54f5ba6870bff6b9b48",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62963ef74c931d25bdb54cbb"
+  },
+  "id": 9,
+  "nonce": 1288,
+  "publicAddress": "0xa383942d56f6d0440ba14e85d856ce2af2e377d8",
+  "username": "_kriptpavcisi_",
+  "userId": "0xa383942d56f6d0440ba14e85d856ce2af2e377d8",
+  "name": "Oguz Dinc",
+  "address": "Büyük Cami Mah. Prof. Dr. Muammer Aksoy Cad. Aykent 20/1 İç Kapı No:13",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62968b15224942259140bd51"
+  },
+  "id": 10,
+  "nonce": 521,
+  "publicAddress": "0x6ffbca4259dfcec4b72bed5008704468208e7635",
+  "username": "iskobaro",
+  "userId": "0x6ffbca4259dfcec4b72bed5008704468208e7635",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6296bd6f224942259140bd52"
+  },
+  "id": 11,
+  "nonce": 7497,
+  "publicAddress": "0x84478be587440dfcc23e33ab09c05045dc623013",
+  "username": "darkstepz",
+  "userId": "0x84478be587440dfcc23e33ab09c05045dc623013",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62982f6f4c931d25bdb54cbd"
+  },
+  "userId": "seansandell00@gmail.com",
+  "name": "Sean Sandell",
+  "address": "0x6E5f7Bd9B940287F6C9AE8A2Ecfb93224A09cba5",
+  "password": "$2b$10$L.q2UtFeq3sXdC1Uk0NSpOqVKLlzWSgptq7e7v7oLBkH/EpjzgVjq",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 12,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62982f8a4c931d25bdb54cbe"
+  },
+  "id": 13,
+  "nonce": 2889,
+  "publicAddress": "0x6e5f7bd9b940287f6c9ae8a2ecfb93224a09cba5",
+  "username": "sandell",
+  "userId": "0x6e5f7bd9b940287f6c9ae8a2ecfb93224a09cba5",
+  "name": "Sean",
+  "address": "0x6e5f7bd9b940287f6c9ae8a2ecfb93224a09cba5",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "629cbbe74c931d25bdb54cbf"
+  },
+  "id": 14,
+  "nonce": 9576,
+  "publicAddress": "0x1181177f18aade045c62093b0473f8cfbd56c215",
+  "username": "",
+  "userId": "0x1181177f18aade045c62093b0473f8cfbd56c215",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "629fcbac224942259140bd53"
+  },
+  "id": 15,
+  "nonce": 1467,
+  "publicAddress": "0x1a2cf16941505fed6a60ebbb339096cf4cac8b92",
+  "username": "",
+  "userId": "0x1a2cf16941505fed6a60ebbb339096cf4cac8b92",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62a1f4fa224942259140bd55"
+  },
+  "id": 16,
+  "nonce": 7856,
+  "publicAddress": "0x1f76dc5a55b0996f8fe7d44056c89e6a8c2ab921",
+  "username": "",
+  "userId": "0x1f76dc5a55b0996f8fe7d44056c89e6a8c2ab921",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62a269034c931d25bdb54cc0"
+  },
+  "userId": "josedeassis6@gmail.com",
+  "name": "JOSE DE ASSIS SANTOS",
+  "address": "Rua Águas Marinhas, 105/102 Iguaçu, Ipatinga MG 35162-014, BRA",
+  "password": "$2b$10$wPSAFyaqze9J1h7hSBBSeuWGz2V2w7w6.kX1IE9ojNb0yqY1zyUS2",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 17,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62a269256c838b262df9fca6"
+  },
+  "id": 18,
+  "nonce": 3541,
+  "publicAddress": "0x96577ea245c828153e40e5ac9098c98379ba2b57",
+  "username": "",
+  "userId": "0x96577ea245c828153e40e5ac9098c98379ba2b57",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62a6d48a4c931d25bdb54cc1"
+  },
+  "id": 19,
+  "nonce": 9674,
+  "publicAddress": "0xea1bf6fc7a1041df9c27b99331823d6a4f70b959",
+  "username": "",
+  "userId": "0xea1bf6fc7a1041df9c27b99331823d6a4f70b959",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62a9caf9224942259140bd56"
+  },
+  "id": 20,
+  "nonce": 7555,
+  "publicAddress": "0xd7325657af1678a25e959cfbdc3fde164cca6346",
+  "username": "",
+  "userId": "0xd7325657af1678a25e959cfbdc3fde164cca6346",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62adc9286c838b262df9fca9"
+  },
+  "id": 21,
+  "nonce": 2018,
+  "publicAddress": "0xf150864e56e0d4d3b78a3304aa9958da87260078",
+  "username": "wobuzz",
+  "userId": "0xf150864e56e0d4d3b78a3304aa9958da87260078",
+  "name": "Piotrek",
+  "address": "ul. Jeziorna",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62b55d0f4c931d25bdb54cc4"
+  },
+  "id": 22,
+  "nonce": 1331,
+  "publicAddress": "0xfd6baccfc7d2bf155a4a58412d1317a2ecd6faf7",
+  "username": "",
+  "userId": "0xfd6baccfc7d2bf155a4a58412d1317a2ecd6faf7",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62b5a89e224942259140bd58"
+  },
+  "id": 23,
+  "nonce": 9577,
+  "publicAddress": "0x6aa618ce09ba501ee6af7492bcbab105421735bd",
+  "username": "",
+  "userId": "0x6aa618ce09ba501ee6af7492bcbab105421735bd",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62b5f8a2224942259140bd59"
+  },
+  "userId": "alexstaticus@gmail.com",
+  "name": "ALEKSANDR BERSAKOV",
+  "address": "0xefB1b61DAc569aC6E8A7B860967978976DB4561d",
+  "password": "$2b$10$BlOuZU1AflAfQUcbSA.7d.nFRNLO8YIy8WVmMI9uITHFRq4OvRikG",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 24,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62b9f60d4c931d25bdb54cc5"
+  },
+  "id": 25,
+  "nonce": 7321,
+  "publicAddress": "0x5793338b50614b6caf5e717c7cfa8ffb173c3a8e",
+  "username": "",
+  "userId": "0x5793338b50614b6caf5e717c7cfa8ffb173c3a8e",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62ba9a8f7627e36e55bbe974"
+  },
+  "userId": "poorva040696@gmail.com",
+  "name": "EdgyAjji",
+  "address": "India",
+  "password": "$2b$10$wB2YLZFC8KNEFQpd9g1s5e0YxT3.u4WHZF/747vMjFfpjZxe9GM42",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 26,
+  "nonce": "",
+  "publicAddress": "",
+  "username": "edgyajji"
+},
+{
+  "_id": {
+    "$oid": "62bac1af7627e36e55bbe975"
+  },
+  "id": 27,
+  "nonce": 9823,
+  "publicAddress": "0xeff4e1e6b78ab613a58d8c4b205f196b5d6bb2aa",
+  "username": "",
+  "userId": "0xeff4e1e6b78ab613a58d8c4b205f196b5d6bb2aa",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62bafff87627e36e55bbe976"
+  },
+  "id": 28,
+  "nonce": 1930,
+  "publicAddress": "0x45b3ceababcfb51816e5d380be6c69da4e202bc8",
+  "username": "",
+  "userId": "0x45b3ceababcfb51816e5d380be6c69da4e202bc8",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62bb98217627e36e55bbe977"
+  },
+  "id": 29,
+  "nonce": 5122,
+  "publicAddress": "0xa9bce641baf8e2597196630bdd70d0e92ffdf5dd",
+  "username": "",
+  "userId": "0xa9bce641baf8e2597196630bdd70d0e92ffdf5dd",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62bc5935950e576e65fe21b1"
+  },
+  "userId": "timmywonder288@gmail.com",
+  "name": "Theophilus Adebowale",
+  "address": "Lagos, Nigeria",
+  "password": "$2b$10$.4fHNHUgoK5OadCh19eoW.hF3UCqjusuv6ZW72BhAOpx5Nyt5GZk6",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 30,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62bc5a017627e36e55bbe978"
+  },
+  "id": 31,
+  "nonce": 5855,
+  "publicAddress": "0x17248587d7c99e2e5458db95c389fac9844eeb3f",
+  "username": "",
+  "userId": "0x17248587d7c99e2e5458db95c389fac9844eeb3f",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62be8b6066b8cc7dd7f80fc2"
+  },
+  "id": 32,
+  "nonce": 456,
+  "publicAddress": "0x9c0d2241994b8caa7dfba64ddde8545077c8aae3",
+  "username": "master",
+  "userId": "0x9c0d2241994b8caa7dfba64ddde8545077c8aae3",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62c010e366b8cc7dd7f80fc3"
+  },
+  "userId": "oluwaseunamiduibrahim@gmail.com",
+  "name": "Amidu Oluwaseun",
+  "address": "Basiri,Ado",
+  "password": "$2b$10$dHrmAOGGn5cq9IYPgqVQeOdUTnAYG3Qp.N0N4j37SuvEYMEJJQ4oG",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 33,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62c075fa66b8cc7dd7f80fc4"
+  },
+  "id": 34,
+  "nonce": 3754,
+  "publicAddress": "0x1f47d4d9cccf13a23bc9b0c5097389570e391bf3",
+  "username": "",
+  "userId": "0x1f47d4d9cccf13a23bc9b0c5097389570e391bf3",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62c1208166b8cc7dd7f80fc5"
+  },
+  "userId": "coltjosephofficial@gmail.com",
+  "name": "Colton J Thornton",
+  "address": "14828 agate rd",
+  "password": "$2b$10$sEYqlxYKg0fbpG.JYuWDEeBmrjtuNd9ZPRTGJ1X87QNQlMrXShEDq",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 35,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62c2cd8df9770d7de08d68ba"
+  },
+  "userId": "immentor786@gmail.com",
+  "name": "RAVI KANT PILOT",
+  "address": "D-461/4A WEST VINOD NAGAR DELHI 110092",
+  "password": "$2b$10$4cDW.IPzAbMZMiuj4PwknePDevs72OM9DulBn8ln32jIP01kLfWie",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 36,
+  "nonce": "",
+  "publicAddress": "",
+  "username": "publicmail1"
+},
+{
+  "_id": {
+    "$oid": "62c33805f9770d7de08d68bb"
+  },
+  "id": 37,
+  "nonce": 5610,
+  "publicAddress": "0x5bf2e8a9456b72d5603893e0b57b92ce344652f5",
+  "username": "",
+  "userId": "0x5bf2e8a9456b72d5603893e0b57b92ce344652f5",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62c5361d9b19827dce5a1dfb"
+  },
+  "id": 38,
+  "nonce": 8807,
+  "publicAddress": "0xda234b179e00d25abf0c317e79b821754968da58",
+  "username": "",
+  "userId": "0xda234b179e00d25abf0c317e79b821754968da58",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62cacfddf9770d7de08d68bc"
+  },
+  "id": 39,
+  "nonce": 6523,
+  "publicAddress": "0xd39ba7b5f1decd6ed4243675742dc4f54f1f5c94",
+  "username": "",
+  "userId": "0xd39ba7b5f1decd6ed4243675742dc4f54f1f5c94",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62d3024566b8cc7dd7f80fc7"
+  },
+  "id": 40,
+  "nonce": 4745,
+  "publicAddress": "0x4d5f361e0017ee4734ff84c39e7f5159e17f87e0",
+  "username": "",
+  "userId": "0x4d5f361e0017ee4734ff84c39e7f5159e17f87e0",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62d3282a66b8cc7dd7f80fc8"
+  },
+  "userId": "rogersimonetto@gmail.com",
+  "name": "Roger Simonetto",
+  "address": "35598 Dina Pl",
+  "password": "$2b$10$R64vOgbCQHWASb8vRyve5.JS8vT8hUu9ECd5r7ny07XFEQ8P96Axy",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 41,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62daa5d066b8cc7dd7f80fc9"
+  },
+  "id": 42,
+  "nonce": 9347,
+  "publicAddress": "0x21a73d58901b7ab31383ad4361dd2c769015a87c",
+  "username": "",
+  "userId": "0x21a73d58901b7ab31383ad4361dd2c769015a87c",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62dd7b57f9770d7de08d68bd"
+  },
+  "id": 43,
+  "nonce": 769,
+  "publicAddress": "0xac368900583ef2a7eab743c890de6b47bf55b9c3",
+  "username": "",
+  "userId": "0xac368900583ef2a7eab743c890de6b47bf55b9c3",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62de0f50f9770d7de08d68be"
+  },
+  "id": 44,
+  "nonce": 1623,
+  "publicAddress": "0x4a2fc4f1d2004fe2be80706b9b2afe64bc4e4ed7",
+  "username": "",
+  "userId": "0x4a2fc4f1d2004fe2be80706b9b2afe64bc4e4ed7",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62de7d28f9770d7de08d68bf"
+  },
+  "id": 45,
+  "nonce": 9039,
+  "publicAddress": "0x32ee629f860dce1589be9beb2cb21b745523bb07",
+  "username": "",
+  "userId": "0x32ee629f860dce1589be9beb2cb21b745523bb07",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62de8e9966b8cc7dd7f80fca"
+  },
+  "id": 46,
+  "nonce": 6218,
+  "publicAddress": "0xb9b13ea5ad9888a947ef21087c249a82ff8cab82",
+  "username": "",
+  "userId": "0xb9b13ea5ad9888a947ef21087c249a82ff8cab82",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62dee8a966b8cc7dd7f80fcb"
+  },
+  "id": 47,
+  "nonce": 8971,
+  "publicAddress": "0x2d676a8b16144fb655bcde0f6c47a455924530b5",
+  "username": "",
+  "userId": "0x2d676a8b16144fb655bcde0f6c47a455924530b5",
+  "name": "caglar",
+  "address": "8250 sok. no:34 d.3 ataşehir mah çiğli/izmir-turkey",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62e0d4a49b19827dce5a1dfd"
+  },
+  "id": 48,
+  "nonce": 9160,
+  "publicAddress": "0x00243281751fe65adc1b9a73642b6a8dcb6e6e86",
+  "username": "",
+  "userId": "0x00243281751fe65adc1b9a73642b6a8dcb6e6e86",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62e0ea249b19827dce5a1dfe"
+  },
+  "id": 49,
+  "nonce": 9626,
+  "publicAddress": "0x73fa4003048c06cb2c2ad06f64615a7405c123aa",
+  "username": "",
+  "userId": "0x73fa4003048c06cb2c2ad06f64615a7405c123aa",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62e127289b19827dce5a1dff"
+  },
+  "id": 50,
+  "nonce": 4576,
+  "publicAddress": "0x4c648b9029dcce6e596e13d583c9a389555a45a8",
+  "username": "",
+  "userId": "0x4c648b9029dcce6e596e13d583c9a389555a45a8",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62e2d8bd9b19827dce5a1e00"
+  },
+  "id": 51,
+  "nonce": 4702,
+  "publicAddress": "0xfd33f67db3ade9c7e87701edc910ab7ba16b7ac0",
+  "username": "",
+  "userId": "0xfd33f67db3ade9c7e87701edc910ab7ba16b7ac0",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62e2d9b866b8cc7dd7f80fcc"
+  },
+  "id": 52,
+  "nonce": 7601,
+  "publicAddress": "0x45f2067642bab4a24f234d990845662ff38e8ff9",
+  "username": "",
+  "userId": "0x45f2067642bab4a24f234d990845662ff38e8ff9",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62e5bb99f9770d7de08d68c0"
+  },
+  "userId": "adhikaumaraziz02@gmail.com",
+  "name": "Adhika umar aziz",
+  "address": "Bandar lampung",
+  "password": "$2b$10$g3kjbqSInVOkJ7lSeub7X.ZTYh4vQNA32Nt.E5y6km3Qgj9wTbNj2",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 53,
+  "nonce": "",
+  "publicAddress": "",
+  "username": "adhika umar aziz"
+},
+{
+  "_id": {
+    "$oid": "62ea70439b19827dce5a1e02"
+  },
+  "id": 54,
+  "nonce": 4405,
+  "publicAddress": "0x18f25ecf2d37dab8c7d480cbaa1450e89eaedb9e",
+  "username": "",
+  "userId": "0x18f25ecf2d37dab8c7d480cbaa1450e89eaedb9e",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62eb7b3566b8cc7dd7f80fcd"
+  },
+  "id": 55,
+  "nonce": 1592,
+  "publicAddress": "0x8d5aa0bcf33d2269ec300fd7b1285032197f2c98",
+  "username": "",
+  "userId": "0x8d5aa0bcf33d2269ec300fd7b1285032197f2c98",
+  "name": "Sreejankumar Poovathungal Sahadevan",
+  "address": "ALRA 51 ASHRAMAM LANE AZAD ROAD KALOOR KOCHI 682017",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62ebc2f7f9770d7de08d68c1"
+  },
+  "id": 56,
+  "nonce": 117,
+  "publicAddress": "0xb6912d7722f327aa0657c17f85de5913fe19e38c",
+  "username": "",
+  "userId": "0xb6912d7722f327aa0657c17f85de5913fe19e38c",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62ee89159b19827dce5a1e03"
+  },
+  "id": 57,
+  "nonce": 5574,
+  "publicAddress": "0xd644c1b56c3f8faa7beb446c93da2f190bfaed9b",
+  "username": "",
+  "userId": "0xd644c1b56c3f8faa7beb446c93da2f190bfaed9b",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62ef8da766b8cc7dd7f80fce"
+  },
+  "id": 58,
+  "nonce": 9867,
+  "publicAddress": "0x6021a327f68cd58ebf4eb0f01e7f93b96443aa3d",
+  "username": "",
+  "userId": "0x6021a327f68cd58ebf4eb0f01e7f93b96443aa3d",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "62f663519b19827dce5a1e04"
+  },
+  "userId": "thomasuboone43336@gmail.com",
+  "name": "Aleksandr Tafeev",
+  "address": "Lakestreet, 33",
+  "password": "$2b$10$bEeja3EpQGrNEw94bHyiVu95LaxQyyonUUw.yAAhyZcyuvSJM/sP6",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 59,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "62f7b8f266b8cc7dd7f80fcf"
+  },
+  "id": 60,
+  "nonce": 2321,
+  "publicAddress": "0xe606318a1ba8d59d02487e36725671f4521f8d22",
+  "username": "",
+  "userId": "0xe606318a1ba8d59d02487e36725671f4521f8d22",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6302157b66b8cc7dd7f80fd0"
+  },
+  "userId": "duongbo8648@gmail.com",
+  "name": "Nguyen Hong Duong",
+  "address": "Ha Dong, Ha Noi, Vietnam",
+  "password": "$2b$10$MbyFQR8vShxGwH75ZV/hnenWzLngL5WWcDwCLGkPQLzjSfOMCjtqi",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 61,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "630216b566b8cc7dd7f80fd1"
+  },
+  "id": 62,
+  "nonce": 1590,
+  "publicAddress": "0xe983f42cf38ddd6854fcb3ab5d139113aa64aaf5",
+  "username": "",
+  "userId": "0xe983f42cf38ddd6854fcb3ab5d139113aa64aaf5",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "630561b966b8cc7dd7f80fd2"
+  },
+  "id": 63,
+  "nonce": 4901,
+  "publicAddress": "0xfdb7f8a52deddf1fce93e83f3e6dc58f8dcac784",
+  "username": "",
+  "userId": "0xfdb7f8a52deddf1fce93e83f3e6dc58f8dcac784",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63067e9466b8cc7dd7f80fd3"
+  },
+  "userId": "scsteventheone@gmail.com",
+  "name": "steven cane",
+  "address": "8 everard place ",
+  "password": "$2b$10$oe0j/24yKMRuYGpURq/RiOT5si197WNLz49NSy7Ham6JmpuTBs2yy",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 64,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "63073a0f9b19827dce5a1e05"
+  },
+  "id": 65,
+  "nonce": 4729,
+  "publicAddress": "0x7c8a340297de1d7a5c0fd651b9ccf02235709ee2",
+  "username": "",
+  "userId": "0x7c8a340297de1d7a5c0fd651b9ccf02235709ee2",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "630a048666b8cc7dd7f80fd4"
+  },
+  "id": 66,
+  "nonce": 5851,
+  "publicAddress": "0x8a5f4ce0bdbaf0e7affb0a3d280f8e273ec92bc3",
+  "username": "",
+  "userId": "0x8a5f4ce0bdbaf0e7affb0a3d280f8e273ec92bc3",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "630a49279b19827dce5a1e06"
+  },
+  "id": 67,
+  "nonce": 7779,
+  "publicAddress": "0xd1b36e78bd4feab7b38157681c8d12a66e3a3565",
+  "username": "",
+  "userId": "0xd1b36e78bd4feab7b38157681c8d12a66e3a3565",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "630a9ebd66b8cc7dd7f80fd5"
+  },
+  "id": 68,
+  "nonce": 6156,
+  "publicAddress": "0x275690056588e401d24725ac2aecc330d99f35c7",
+  "username": "",
+  "userId": "0x275690056588e401d24725ac2aecc330d99f35c7",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "631f6be9915c54dbc5ff85ce"
+  },
+  "id": 69,
+  "nonce": 7007,
+  "publicAddress": "0xb149b4c6533c9e193ecc6a0b9c45381f209064cc",
+  "username": "",
+  "userId": "0xb149b4c6533c9e193ecc6a0b9c45381f209064cc",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63201604915c54dbc5ff85cf"
+  },
+  "id": 70,
+  "nonce": 9707,
+  "publicAddress": "0x3be4a3c8fa722f11cc337aa490c52c70f96e5e5e",
+  "username": "",
+  "userId": "0x3be4a3c8fa722f11cc337aa490c52c70f96e5e5e",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6341490f444a33752ecd18df"
+  },
+  "userId": "aj01@yopmail.com",
+  "name": "Arvind Jaiswal",
+  "address": "Greater Noida",
+  "password": "$2b$10$XtFJ6ltOiswgyn6AETmy3.Oo34PLg16YGNnRRerkS1h4NthBAYA46",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 71,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "634a4b253a9849146e67363a"
+  },
+  "userId": "mohit.gupta@symbtechnologies.com",
+  "name": "Mohit Gupta",
+  "address": "1/416 Golaghat, Ramnagar",
+  "password": "$2b$10$oCUON8S3tJh081QxW9Z19.CnYz46wCrCnZDtP7o/HDdYrjP/rcHNK",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 72,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "63536c11a5d0a6b92d85a3ce"
+  },
+  "id": 73,
+  "nonce": 7080,
+  "publicAddress": "0x1b52a62c61164b5edaaa2cb3aac1b7f69edcfdb0",
+  "username": "",
+  "userId": "0x1b52a62c61164b5edaaa2cb3aac1b7f69edcfdb0",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "635f8c17320f83ce9dd936ac"
+  },
+  "id": 74,
+  "nonce": 2184,
+  "publicAddress": "0xe09a06ecf80d3936735e159dd0d19cde21788c33",
+  "username": "",
+  "userId": "0xe09a06ecf80d3936735e159dd0d19cde21788c33",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "636022a8320f83ce9dd936ad"
+  },
+  "id": 75,
+  "nonce": 4000,
+  "publicAddress": "0x81d2c4141ba30e7b738188611b8228c3cf8d033b",
+  "username": "",
+  "userId": "0x81d2c4141ba30e7b738188611b8228c3cf8d033b",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63609f4b320f83ce9dd936ae"
+  },
+  "id": 76,
+  "nonce": 8268,
+  "publicAddress": "0x40cafcc8d8009efb89026116a7db91d7489e2674",
+  "username": "",
+  "userId": "0x40cafcc8d8009efb89026116a7db91d7489e2674",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6360f530320f83ce9dd936af"
+  },
+  "id": 77,
+  "nonce": 8497,
+  "publicAddress": "0x81d32649d84f17d08241369a5f499238df52c6d8",
+  "username": "",
+  "userId": "0x81d32649d84f17d08241369a5f499238df52c6d8",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63646fe29c8d395648dcc028"
+  },
+  "userId": "firstfirstly2@gmail.com",
+  "name": "Juozas",
+  "address": "Vilnius",
+  "password": "$2b$10$zowo29KYwCu2cfHT53UW4OaJaVX8ru0S/66mrU1QZFtTCN48EQV5y",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 78,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "6369e03e9c8d395648dcc02a"
+  },
+  "userId": "ajetly@yahoo.com",
+  "name": "Abhijeet Jetly",
+  "address": "India",
+  "password": "$2b$10$2..cFt6hPV0u4yqew6XzQurOwQMiaAjohtr3UDg8Rv8YWQNeyR/Ni",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 79,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "636f69859c8d395648dcc02d"
+  },
+  "id": 80,
+  "nonce": 575,
+  "publicAddress": "0xe3921277177e0b9acd49f90d6d02a155d6b3a894",
+  "username": "anthony",
+  "userId": "0xe3921277177e0b9acd49f90d6d02a155d6b3a894",
+  "name": "Anthony",
+  "address": "Earth",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "636f6d129c8d395648dcc02e"
+  },
+  "userId": "widodoanthony@gmail.com",
+  "name": "Anthony",
+  "address": "Earth",
+  "password": "$2b$10$kefbg0AuXylbbRLa2d1V0e2RPD1Tim/s5NeZspj.YEmjMCA/T9y/C",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 81,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "637c5c559c8d395648dcc02f"
+  },
+  "userId": "antoniosalles3@gmail.com",
+  "name": "Antonio de Salles Teixeira",
+  "address": "Rua Alenquer, 54",
+  "password": "$2b$10$cPb3vNXfosBJiLAkHcP2ce8CJoKnxRVnEargrWssKx5wXM287ZNTu",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 82,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "637c5f619c8d395648dcc030"
+  },
+  "userId": "vinish@paperclip.design",
+  "name": "Vinish ",
+  "address": "20 shubh elegance, bopal",
+  "password": "$2b$10$v4zi.fz7slxJckAj9.KvsuznTIEEIdFsg6Gag5W00OR9m2ubJFRJu",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 83,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "637c68309c8d395648dcc031"
+  },
+  "userId": "adya@paperclip.design",
+  "name": "Adya Sinha",
+  "address": "adya@paperclip.design",
+  "password": "$2b$10$v60Su1gvVL9cRzvKr7zQLuTttGWfUfe/NporwP0Xa2B6J8gVHCuHu",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 84,
+  "nonce": "",
+  "publicAddress": "",
+  "username": "adya.s"
+},
+{
+  "_id": {
+    "$oid": "637c7cd39c8d395648dcc034"
+  },
+  "id": 85,
+  "nonce": 1333,
+  "publicAddress": "0x88b599df727c636d74f349e41863b694ed128c24",
+  "username": "",
+  "userId": "0x88b599df727c636d74f349e41863b694ed128c24",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6396cc5b9c8d395648dcc048"
+  },
+  "id": 86,
+  "nonce": 3113,
+  "publicAddress": "0xb5e4c5d3fd1ac0832ba9910eb7687b3a58f36637",
+  "username": "",
+  "userId": "0xb5e4c5d3fd1ac0832ba9910eb7687b3a58f36637",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63aee36e157a9f812d38327e"
+  },
+  "userId": "hotrod2328@gmail.com",
+  "name": "Timothy Campbell ",
+  "address": "5963 HWY 29 N    Danielville  GA. 30633",
+  "password": "$2b$10$34POjN2LAVKlAAjx1PvDR.wSjviylBvCSAPQlJznpnh5BsEpJi5o.",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 87,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "63aee41e157a9f812d38327f"
+  },
+  "id": 88,
+  "nonce": 4951,
+  "publicAddress": "0x45463020eeb67dbc101fa65a7f9f4b219a0137f2",
+  "username": "hotrod2328",
+  "userId": "0x45463020eeb67dbc101fa65a7f9f4b219a0137f2",
+  "name": "Timothy Campbell",
+  "address": "0x45463020eeb67dbc101fa65a7f9f4b219a0137f2",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63b2cd32157a9f812d383280"
+  },
+  "id": 89,
+  "nonce": 60,
+  "publicAddress": "0x2fcbe0717bf1ef31ac3994598136342dd8342025",
+  "username": "",
+  "userId": "0x2fcbe0717bf1ef31ac3994598136342dd8342025",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63b52a91157a9f812d383281"
+  },
+  "id": 90,
+  "nonce": 6286,
+  "publicAddress": "0xaed142a76f74d500061cc7f0d8aa87078b43622a",
+  "username": "",
+  "userId": "0xaed142a76f74d500061cc7f0d8aa87078b43622a",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63c0ed1f157a9f812d383282"
+  },
+  "userId": "lerens88@gmail.com",
+  "name": "Kro",
+  "address": "Lenina st.",
+  "password": "$2b$10$FkWUW5nFEVCR0L1Ab1ZBPu6M0W7Y8cm4FrRjDNNlY8oH/OBd7wFHO",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 91,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "63c0ee18157a9f812d383283"
+  },
+  "id": 92,
+  "nonce": 9644,
+  "publicAddress": "0x27f2154002eae3f602a2925e8cb2086e44e8242b",
+  "username": "",
+  "userId": "0x27f2154002eae3f602a2925e8cb2086e44e8242b",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63ccc4cfd0d2a0251bb905c8"
+  },
+  "id": 93,
+  "nonce": 7591,
+  "publicAddress": "0x4373f43df5ee75776fa541a476b1084a00062731",
+  "username": "",
+  "userId": "0x4373f43df5ee75776fa541a476b1084a00062731",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63cd55b0d0d2a0251bb905c9"
+  },
+  "id": 94,
+  "nonce": 3236,
+  "publicAddress": "0xb98e5027c0bcfb997c5b1d531d588c542b0a9dad",
+  "username": "",
+  "userId": "0xb98e5027c0bcfb997c5b1d531d588c542b0a9dad",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63d51c84821c1350bed7f7de"
+  },
+  "id": 95,
+  "nonce": 9275,
+  "publicAddress": "0x36af13e2188bcf041250231df380b828bf43aed2",
+  "username": "",
+  "userId": "0x36af13e2188bcf041250231df380b828bf43aed2",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63d983d4821c1350bed7f7df"
+  },
+  "id": 96,
+  "nonce": 1721,
+  "publicAddress": "0xf192e1a17f51911473253eeadfd727a47299850a",
+  "username": "",
+  "userId": "0xf192e1a17f51911473253eeadfd727a47299850a",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63db6142821c1350bed7f7e0"
+  },
+  "id": 97,
+  "nonce": 2315,
+  "publicAddress": "0x61e6509e740eacda4c1d5d4d1c3722c43a44aaec",
+  "username": "",
+  "userId": "0x61e6509e740eacda4c1d5d4d1c3722c43a44aaec",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63f6477774a3f9f69f97e930"
+  },
+  "id": 98,
+  "nonce": 2163,
+  "publicAddress": "0xae13d7f6c44a4015bba921f5571722636e655235",
+  "username": "",
+  "userId": "0xae13d7f6c44a4015bba921f5571722636e655235",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "63f697aa74a3f9f69f97e931"
+  },
+  "id": 99,
+  "nonce": 1259,
+  "publicAddress": "0x4a01f2448deb7a57fb17076b2cd04b0daaf86d41",
+  "username": "",
+  "userId": "0x4a01f2448deb7a57fb17076b2cd04b0daaf86d41",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "640df61a3b0178254ed39da7"
+  },
+  "userId": "golink0@triots.com",
+  "name": "golink 01",
+  "address": "dfg 254 dfgbfg",
+  "password": "$2b$10$IkIhuX81VaAQlF3QY9xDReZqrfgfloUZ6ptHBOQeAvQM3gLqVhapG",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 100,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "641b7b153b0178254ed39da8"
+  },
+  "id": 101,
+  "nonce": 7962,
+  "publicAddress": "0xa37dd7c67c5c985aa56f7cf362b29d83c3f36816",
+  "username": "",
+  "userId": "0xa37dd7c67c5c985aa56f7cf362b29d83c3f36816",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "64280117e4ad4a5b1e125251"
+  },
+  "id": 102,
+  "nonce": 895,
+  "publicAddress": "0x51a142bd7841775b90a0db79ea03ad2171cfa311",
+  "username": "",
+  "userId": "0x51a142bd7841775b90a0db79ea03ad2171cfa311",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "642fe4bf7cf077abd4cd9874"
+  },
+  "id": 103,
+  "nonce": 3818,
+  "publicAddress": "0x39676ec9c79fcb29100bf5c6497fe5ee6b0e1b8e",
+  "username": "",
+  "userId": "0x39676ec9c79fcb29100bf5c6497fe5ee6b0e1b8e",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "643006057cf077abd4cd9875"
+  },
+  "userId": "samyenviettphcm@gmail.com",
+  "name": "Ha Huong Nam",
+  "address": "86 Duong so 1 Phuong 26 Binh Thanh Ho Chi Minh",
+  "password": "$2b$10$PQgXypuAa67l6NqLcTT6SeteIM5cpVLdhBUgaTdlt2bIIcF13369.",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 104,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "64369ad67cf077abd4cd9877"
+  },
+  "id": 105,
+  "nonce": 828,
+  "publicAddress": "0x67c6ab7379778ca0ffdae5193a090e77d92a9583",
+  "username": "",
+  "userId": "0x67c6ab7379778ca0ffdae5193a090e77d92a9583",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6438f4df7cf077abd4cd9878"
+  },
+  "id": 106,
+  "nonce": 4384,
+  "publicAddress": "0x70a5bd00a250db45c5a8eb90a0e347b31a565161",
+  "username": "",
+  "userId": "0x70a5bd00a250db45c5a8eb90a0e347b31a565161",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6439410a7cf077abd4cd9879"
+  },
+  "userId": "d3elks2022@gmail.com",
+  "name": "sdopsf sdopf",
+  "address": "fpoe",
+  "password": "$2b$10$i20tBI3uk3VoGp49Q9rQG.OjQm0GBBvc7d16IoNFJ51wSLgIWcLgC",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 107,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "644646c27cf077abd4cd987a"
+  },
+  "id": 108,
+  "nonce": 1713,
+  "publicAddress": "0xde6a4341202887ccc2c540c1bc596f7aeb8a731a",
+  "username": "",
+  "userId": "0xde6a4341202887ccc2c540c1bc596f7aeb8a731a",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "644650c57cf077abd4cd987b"
+  },
+  "id": 109,
+  "nonce": 2889,
+  "publicAddress": "0xb1e8fd06a5406262e420662bb22e3b9bb6dad1a6",
+  "username": "",
+  "userId": "0xb1e8fd06a5406262e420662bb22e3b9bb6dad1a6",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6446b2af7cf077abd4cd987c"
+  },
+  "id": 110,
+  "nonce": 6465,
+  "publicAddress": "0xbffd6c28a3bb1900e0ed16e45b266f4bc1deaee9",
+  "username": "",
+  "userId": "0xbffd6c28a3bb1900e0ed16e45b266f4bc1deaee9",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "644ae4837cf077abd4cd987d"
+  },
+  "id": 111,
+  "nonce": 9624,
+  "publicAddress": "0xc76b759b2108017856496e3f63ac100863178201",
+  "username": "",
+  "userId": "0xc76b759b2108017856496e3f63ac100863178201",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "645972c27cf077abd4cd987e"
+  },
+  "userId": "pert22990@gmail.com",
+  "name": "Petr",
+  "address": "ASD",
+  "password": "$2b$10$pphtTd1yOP4F6BuNHuMHJeFFIdjzWYnHk5XezXp/jlQrtu/43bH2.",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 112,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "646349ed7cf077abd4cd987f"
+  },
+  "userId": "aniruddh@mudrex.com",
+  "name": "Aniruddh",
+  "address": "Bangalore",
+  "password": "$2b$10$XAUrNT0VBAkyv2cBoIAVBe6lI3vxek0ctCCsNgCdfw2YliZTOsrSG",
+  "isEmail": "true",
+  "userType": "email",
+  "role": "EndUser",
+  "isActive": true,
+  "id": 113,
+  "nonce": "",
+  "publicAddress": "",
+  "username": ""
+},
+{
+  "_id": {
+    "$oid": "647063817cf077abd4cd9880"
+  },
+  "id": 114,
+  "nonce": 5336,
+  "publicAddress": "0x779aa526aab4818b27ebbee292ee7818e71f0ab9",
+  "username": "",
+  "userId": "0x779aa526aab4818b27ebbee292ee7818e71f0ab9",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "647c19077cf077abd4cd9881"
+  },
+  "id": 115,
+  "nonce": 6811,
+  "publicAddress": "0x625a3ecb47b991f398b02d43c0da335f471c66f1",
+  "username": "",
+  "userId": "0x625a3ecb47b991f398b02d43c0da335f471c66f1",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6486fe217cf077abd4cd9882"
+  },
+  "id": 116,
+  "nonce": 631,
+  "publicAddress": "0xbc9c4c8423f2f8d5ec41315a8e331ff47d25c67d",
+  "username": "",
+  "userId": "0xbc9c4c8423f2f8d5ec41315a8e331ff47d25c67d",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6486fe687cf077abd4cd9883"
+  },
+  "id": 117,
+  "nonce": 9802,
+  "publicAddress": "0x0a5d703313d3debdace9c11720b94c7470bd993f",
+  "username": "",
+  "userId": "0x0a5d703313d3debdace9c11720b94c7470bd993f",
+  "name": "",
+  "address": "",
+  "password": "",
+  "isEmail": "",
+  "role": "EndUser",
+  "userType": "wallet",
+  "isActive": true
+}]

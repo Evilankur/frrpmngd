@@ -1,0 +1,379 @@
+[{
+  "_id": {
+    "$oid": "6270aa07786baa39117715d0"
+  },
+  "record_id": "e21e127e-2cb2-42f0-a577-ef92873c4eb3",
+  "userId": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "isfav": false
+},
+{
+  "_id": {
+    "$oid": "6270abda6a5b543a0baac152"
+  },
+  "record_id": "9ca44d88-5382-45be-8b7f-cca46641227f",
+  "userId": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6270abec6a5b543a0baac153"
+  },
+  "record_id": "c0e1efce-d4c2-466b-bfe9-6fe4035b7dc5",
+  "userId": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6270acf326777b3a663c757f"
+  },
+  "record_id": "e21e127e-2cb2-42f0-a577-ef92873c4eb3",
+  "userId": "ackno@dispostable.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6270b30826777b3a663c7580"
+  },
+  "record_id": "9ca44d88-5382-45be-8b7f-cca46641227f",
+  "userId": "ackno@dispostable.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6270ba626a5b543a0baac155"
+  },
+  "record_id": "8430b276-3c1e-4e15-b19a-73c3a64a67cd",
+  "userId": "ackno@dispostable.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6270e85d6a5b543a0baac156"
+  },
+  "record_id": "9b0969d3-2230-4976-ab17-348ecab8dac0",
+  "userId": "ackno@dispostable.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "627296e4786baa39117715d1"
+  },
+  "record_id": "4d2ff874-1f33-487b-9b3b-e3796bbfa094",
+  "userId": "ackno@dispostable.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "627297356a5b543a0baac157"
+  },
+  "record_id": "1595b4e9-d261-421b-a17c-17f56f228e5a",
+  "userId": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "62736792e42b806e038d7113"
+  },
+  "record_id": "4102f0eb-9fdc-4e90-85ee-6845f81c199a",
+  "userId": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6273e0fe94c54c856f3a70eb"
+  },
+  "record_id": "e21e127e-2cb2-42f0-a577-ef92873c4eb3",
+  "userId": "pratik@acknoledger.com",
+  "isfav": false
+},
+{
+  "_id": {
+    "$oid": "6273e11994c54c856f3a70ec"
+  },
+  "record_id": "c1e7fffd-29dd-41d8-8de0-a0b152b4c8d3",
+  "userId": "0x96e6f97c189e095fbfbea21b85e1983b66ba9d80",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6283484c46ffe9686451037f"
+  },
+  "record_id": "7019c9d4-07c3-4aa8-acaf-2804a31c4de1",
+  "userId": "ackno@dispostable.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "629640404c931d25bdb54cbc"
+  },
+  "record_id": "4102f0eb-9fdc-4e90-85ee-6845f81c199a",
+  "userId": "0xa383942d56f6d0440ba14e85d856ce2af2e377d8",
+  "isfav": false
+},
+{
+  "_id": {
+    "$oid": "62b246aa4c931d25bdb54cc3"
+  },
+  "record_id": "818392f6-7420-46f8-a83f-4150a6f35211",
+  "userId": "josedeassis6@gmail.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "62b247bb6c838b262df9fcaa"
+  },
+  "record_id": "fe658d80-6750-457a-a6ed-27a472286eb5",
+  "userId": "josedeassis6@gmail.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "62daaa059b19827dce5a1dfc"
+  },
+  "record_id": "fe658d80-6750-457a-a6ed-27a472286eb5",
+  "userId": "0x3d1e3d75f07800e8ed01b7a2484d5839ecd792d8",
+  "isfav": false
+},
+{
+  "_id": {
+    "$oid": "62e2da0b9b19827dce5a1e01"
+  },
+  "record_id": "abc07d6c-00d5-47e8-9ada-c38bb5ae6534",
+  "userId": "0xfd33f67db3ade9c7e87701edc910ab7ba16b7ac0",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "63443e89444a33752ecd18e0"
+  },
+  "record_id": "fe658d80-6750-457a-a6ed-27a472286eb5",
+  "userId": "aj01@yopmail.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "635ec706320f83ce9dd936ab"
+  },
+  "record_id": "0ca0f41f-42e5-47f8-8456-2bc022b33136",
+  "userId": "toni.jurjevi@gmail.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6364733f9c8d395648dcc029"
+  },
+  "record_id": "6349ded6f601b1721aad7d75",
+  "userId": "firstfirstly2@gmail.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6369e4869c8d395648dcc02b"
+  },
+  "record_id": "19b00e9c-b5d9-4533-b5d0-bfdf07ceb28e",
+  "userId": "ajetly@yahoo.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "6369e5049c8d395648dcc02c"
+  },
+  "record_id": "6358e5d5915d1a5e37ea166d",
+  "userId": "ajetly@yahoo.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c6ed19c8d395648dcc032"
+  },
+  "record_id": "6358e41854619fd5aa399cd5",
+  "userId": "adya@paperclip.design",
+  "isfav": false
+},
+{
+  "_id": {
+    "$oid": "637c71d19c8d395648dcc033"
+  },
+  "record_id": "6358e5921ba12e03f86b8081",
+  "userId": "adya@paperclip.design",
+  "isfav": false
+},
+{
+  "_id": {
+    "$oid": "637c83af9c8d395648dcc035"
+  },
+  "record_id": "636bf4e3ab838f867981f3b4",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c83c19c8d395648dcc036"
+  },
+  "record_id": "6349deb7f601b1721aad7d67",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c83d09c8d395648dcc037"
+  },
+  "record_id": "635286e86873072497abaa6d",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c83dd9c8d395648dcc038"
+  },
+  "record_id": "63562f41853c3a696c75dec0",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c840b9c8d395648dcc039"
+  },
+  "record_id": "6353d1246f061a895ce9bb4d",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c84219c8d395648dcc03a"
+  },
+  "record_id": "6358456851bd3723d9ab914b",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c84529c8d395648dcc03b"
+  },
+  "record_id": "6356cbc54861a005019e348c",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c84a19c8d395648dcc03c"
+  },
+  "record_id": "63538bbc07101384ff424572",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c84bf9c8d395648dcc03d"
+  },
+  "record_id": "6356536e808a78dd0d3380ff",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c84d19c8d395648dcc03e"
+  },
+  "record_id": "63583b3e0d34aa978db31426",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c84da9c8d395648dcc03f"
+  },
+  "record_id": "63583b3d0d34aa978db31425",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c85019c8d395648dcc040"
+  },
+  "record_id": "636bf49da11ff12ac50879da",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c850d9c8d395648dcc041"
+  },
+  "record_id": "6356b2c72da50299c89031c9",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c852c9c8d395648dcc042"
+  },
+  "record_id": "670ee5eb-0e1c-4fee-9009-48bfc01d6da4",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c8dfd9c8d395648dcc043"
+  },
+  "record_id": "6358e4a5915d1a5e37ea1643",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c8e079c8d395648dcc044"
+  },
+  "record_id": "6358d91c54619fd5aa399b3a",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c8e459c8d395648dcc045"
+  },
+  "record_id": "636bf4d3ab838f867981f3b0",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c8e559c8d395648dcc046"
+  },
+  "record_id": "78b7c19b-08bd-4898-baf8-0f40505c4f00",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "637c8e699c8d395648dcc047"
+  },
+  "record_id": "63562f45853c3a696c75dec1",
+  "userId": "adya@paperclip.design",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "639d18be157a9f812d38327d"
+  },
+  "contractAddress": "0xDce57f6E1497524C2456a867689fed056924F1B1",
+  "tokenId": "42",
+  "userId": "toni.jurjevi@gmail.com",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "63db6164821c1350bed7f7e1"
+  },
+  "contractAddress": "0x1906fd9c4ac440561f7197da0a4bd2e88df5fa70",
+  "tokenId": "10379",
+  "userId": "0x61e6509e740eacda4c1d5d4d1c3722c43a44aaec",
+  "isfav": true
+},
+{
+  "_id": {
+    "$oid": "643006387cf077abd4cd9876"
+  },
+  "contractAddress": "0xb5d5B4cD4303d985D83C228644b9Ed10930a8152",
+  "tokenId": "7102",
+  "userId": "samyenviettphcm@gmail.com",
+  "isfav": true
+}]
